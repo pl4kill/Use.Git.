@@ -6,6 +6,11 @@
 git init
 ```
 
+### Clonar repositório github
+```bash
+git clone <URL do repositorio: https://github.com/pl4kill/Use.Git..git>
+```
+
 ### verificar o que foi alterado
 ```bash
 git status
