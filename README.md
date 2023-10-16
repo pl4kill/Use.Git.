@@ -6,6 +6,11 @@
 git init
 ```
 
+#### Colocar diretório em que seu repositório está armazenado.
+```bash
+git remote add origin <URL do repositorio: https://github.com/pl4kill/Use.Git..git>
+```
+
 ### Clonar repositório github
 ```bash
 git clone <URL do repositorio: https://github.com/pl4kill/Use.Git..git>
@@ -26,6 +31,12 @@ git add .
 ```bash
 ## MSG sendo sua mensagem
 git commit -m "MSG"
+```
+
+### Enviar os commits de sua branch e repositório Git local para o seu repositório remoto.
+```bash
+## MSG sendo sua mensagem
+git push -u origin master
 ```
 
 ### listar branches
