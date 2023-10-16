@@ -1,12 +1,12 @@
 ## Comandos do git
 
 
-#### iniciar o git na aplicação
+## iniciar o git na aplicação
 ```bash
 git init
 ```
 
-#### Colocar diretório em que seu repositório está armazenado.
+## Colocar diretório em que seu repositório está armazenado.
 ```bash
 git remote add origin <URL do repositorio: https://github.com/pl4kill/Use.Git..git>
 ```
